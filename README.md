@@ -1,29 +1,14 @@
 <p align="center">
-<img width="128" src="https://i.loli.net/2020/05/07/9kLvPnWVCp7538c.png" >
+<img width="128" src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-560687d8-6482-4cc3-a74f-73ca5a669b07/39d83aca-c9e0-49b8-b754-05dfe3ad4813.png" >
 </p>
 <p align="center">
-<a href="http://zyplayer.fun/" target="_blank">官网</a>
-<a href="https://github.com/Hunlongyu/ZY-Player/issues" target="_blank">反馈</a>
+<a href="http://xuehuayu.cn/kankan" target="_blank">官网</a>
+<a href="https://github.com/npljy/KK-Player-PC/issues" target="_blank">反馈</a>
 </p>
-<p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg">
-<p>
-<p align="center">
-<img src="https://github.com/aleen42/badges/raw/master/src/visual_studio_code_flat_square.svg?sanitize=true">
-<img src="https://github.com/aleen42/badges/raw/master/src/vue_flat_square.svg?sanitize=true">
-<img src="https://github.com/aleen42/badges/raw/master/src/javascript_flat_square.svg?sanitize=true">
-<img src="https://github.com/aleen42/badges/raw/master/src/eslint_flat_square.svg?sanitize=true">
-</p>
-<p align="center">
-<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Hunlongyu/ZY-Player/total?style=for-the-badge">
-<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/Hunlongyu/ZY-Player?include_prereleases&style=for-the-badge">
-<img alt="GitHub" src="https://img.shields.io/github/license/Hunlongyu/ZY-Player?style=for-the-badge">
-<img src="https://img.shields.io/github/workflow/status/Hunlongyu/ZY-Player/release-build?style=for-the-badge">
-<p>
 
+<h1 align="center">KK Player 资源播放器</h1>
 
-<h1 align="center">ZY Player 资源播放器</h1>
-
+### 基于 ZY Player
 
 
 ### ✨特性
@@ -39,22 +24,6 @@
 - 🌮 导出资源下载链接
 - 🍣 支持第三方播放器播放
 - 🍤 显示豆瓣评分
-
-### 🌴 下载
-
-- 🎃 软件暂时关闭下载通道. 请大家支持正版.
-- 🎭 所有资源来自网上, 该软件不参与任何制作, 上传, 储存等内容, 禁止传播违法资源. 该软件仅供学习参考, 请于安装后24小时内删除.
-
-### 🎠 平台
-
-| 平台                                  | 链接                                                        |
-| :------------------------------------ | :---------------------------------------------------------- |
-| 🖥️ 电脑端 ( Windows & Mac & Linux )    | [ZY Player](https://github.com/Hunlongyu/ZY-Player)         |
-| 📱 手机端 ( Android & IOS )            | [ZY Player APP](https://github.com/Hunlongyu/ZY-Player-APP) |
-| 📺 电视端 ( Android & Mac ) ( 进行中 ) | [ZY Player TV](https://github.com/cuiocean/ZY-Player-TV)    |
-| 🌐 浏览器 ( Web )                      | [ZY Player Web](https://github.com/Hunlongyu/ZY-Player-Web) |
-
-
 
 ### 🚀 快捷键
 
@@ -88,11 +57,3 @@
 | ![白色.png](https://i.loli.net/2020/09/02/gslBIYvTaSZRwfU.png) | ![黑色.png](https://i.loli.net/2020/09/02/dMmETUq1ACuGsI6.png) |
 |                          👘 绿色主题                          |                          👚 粉色主题                          |
 | ![绿色.png](https://i.loli.net/2020/09/02/nxJF71b3qusUclZ.png) | ![粉色.png](https://i.loli.net/2020/09/02/8rGL45p6kSqRCOz.png) |
-
-### 🍭 开发者
-
-|          [Hunlongyu](https://github.com/Hunlongyu)           |           [cuiocean](https://github.com/cuiocean)            |              [buvta](https://github.com/buvta)               |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img width="120" src="https://avatars2.githubusercontent.com/u/15273630?s=460&u=48cf3299e2a842c0252233d8be42ef4c5d792138&v=4"/> | <img width="120" src="https://avatars0.githubusercontent.com/u/5760235?s=460&u=9d969dd8d83f069ce7ebd60516770c93ac07a330&v=4" /> | <img width="120" src="https://avatars3.githubusercontent.com/u/12312540?s=400&v=4" /> |
-|                            💻 🎨 🐛                             |                             💻 🐛                              |                             💻 🐛                              |
-
